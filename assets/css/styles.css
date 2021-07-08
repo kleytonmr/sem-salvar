@@ -78,6 +78,7 @@ button {
   padding-top: 3%;
   background-color: #fff;
   height: 670px;
+  max-width: 600px;
   border: 2px;
   border-radius: 10px;
 }
