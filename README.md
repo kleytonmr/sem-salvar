@@ -8,12 +8,12 @@ Sem-salvar é uma simples solução para quem quer enviar messagens no WhatsApp 
 
 [Live - Sem salvar](https://kleytonmr.github.io/sem-salvar/)
 
+## Exemplos
 ![image](https://user-images.githubusercontent.com/31089959/124937711-071ce500-dfde-11eb-8dad-7ccf0471c25c.png)
 
 ![WhatsApp Video 2021-07-08 at 09 50 05](https://user-images.githubusercontent.com/31089959/124938181-7692d480-dfde-11eb-8e0f-52ea20a871ce.gif)
 
-
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuindo para o [sem-salvar](https://github.com/kleytonmr/sem-salvar)
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
 Para contribuir com <nome_do_projeto>, siga estas etapas:
 
