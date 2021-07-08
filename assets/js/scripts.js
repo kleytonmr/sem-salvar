@@ -23,18 +23,20 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 
   $('#button').click(function() {
-    generateLink()
-  });
-
-  $('#phone').focus(function(){
     if ($("#phone").val() != ""){
-      $("#button").text('gerar link');
+      generateLink()
     }
   });
 
-  $('#phone').blur(function(){
-    if ($("#phone").val() != ""){
-      $("#button").text('iniciar conversa');
-    }
-  });
+ // $('#phone').focus(function(){
+ //   if ($("#phone").val() != ""){
+ //     $("#button").text('gerar link');
+ //   }
+ // });
+
+ // $('#phone').blur(function(){
+ //   if ($("#phone").val() != ""){
+ //     $("#button").text('iniciar conversa');
+ //   }
+ // });
 });
